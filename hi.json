@@ -10,7 +10,7 @@
         "ads_enable": "1",
         "mobile_ads_network": "admob",
         "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-        "admob_banner_ads_id": "cca-app-pub-3940256099942544/6300978111",
+        "admob_banner_ads_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_ads_id": "ca-app-pub-3940256099942544/1033173712",
         "fan_native_ads_placement_id": "xxxxxxxxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxx",
         "fan_banner_ads_placement_id": "432867347824348_441598723617877",
