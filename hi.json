@@ -1,0 +1,29 @@
+{
+    "app_config": {
+        "menu": "vertical",
+        "program_guide_enable": false,
+        "mandatory_login": false,
+        "genre_visible": true,
+        "country_visible": false
+    },
+    "ads_config": {
+        "ads_enable": "0",
+        "mobile_ads_network": "fan",
+        "admob_app_id": "ca-app-pub-xxxxxxxxxxxxxxxxxxxxxx~xxxxxxxxxxxxxxxxxxxxxx",
+        "admob_banner_ads_id": "ca-app-pub-6418666787912881/7717701169",
+        "admob_interstitial_ads_id": "ca-app-pub-6418666787912881/7316685419",
+        "fan_native_ads_placement_id": "xxxxxxxxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxx",
+        "fan_banner_ads_placement_id": "432867347824348_441598723617877",
+        "fan_interstitial_ads_placement_id": "432867347824348_440477410396675",
+        "startapp_app_id": "xxxxxxxxxx"
+    },
+
+    "apk_version_info": {
+        "version_code": "100",
+        "version_name": "هذا التحديث مهم جدا",
+        "whats_new": "تم حل جميع المشاكل في هده النسخة",
+        "apk_url": "https://play.google.com/store/apps/details?id=com.mrbihiesq.ashqkaesk",
+        "is_skipable": false
+    },
+  
+}
