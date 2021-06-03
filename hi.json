@@ -8,7 +8,7 @@
     },
     "ads_config": {
         "ads_enable": "1",
-        "mobile_ads_network": "startApp",
+        "mobile_ads_network": "fan",
         "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
         "admob_banner_ads_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_ads_id": "ca-app-pub-3940256099942544/1033173712",
