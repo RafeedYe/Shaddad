@@ -1,0 +1,61 @@
+[
+    {
+        "ch_list_id": 3,
+        "ch_name": "ben1",
+        "img_url": "https://egmusic.net/uploads/default_image/genre.png",
+        "ch_active": true,
+        "slug": "sci-fi",
+        "ch_sever":[{
+          "se_id":1,
+          "se_name":"whaches noew",
+          "se_url":"https://www.google.com",
+          "se_tpl":"Url Player",
+          "se_tvd":"embed",
+          "se_v_q":"HD",
+          "ch":3
+        },
+        {
+            "se_id":2,
+            "se_name":"whaches noew",
+            "se_url":"https://www.google.com",
+            "se_tpl":"Url Player",
+            "se_tvd":"embed",
+            "se_v_q":"720HD",
+            "ch":3
+          }
+        
+        ]
+
+      },
+
+      {
+        "ch_list_id": 4,
+        "ch_name": "ben1",
+        "img_url": "https://egmusic.net/uploads/default_image/genre.png",
+        "ch_active": true,
+        "slug": "sci-fi",
+        "ch_sever":[
+        {
+          "se_id":1,
+          "se_name":"whaches new 4",
+          "se_url":"https://www.google.com",
+          "se_tpl":"Url Player",
+          "se_tvd":"embed",
+          "se_v_q":"HD",
+          "ch":3
+        },
+        {
+            "se_id":2,
+            "se_name":"whaches noew",
+            "se_url":"https://www.google.com",
+            "se_tpl":"Url Player",
+            "se_tvd":"embed",
+            "se_v_q":"720HD",
+            "ch":3
+          }
+        
+        ]
+
+      }
+
+]
