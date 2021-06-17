@@ -1,0 +1,37 @@
+{
+    "app_config": {
+        "menu": "vertical",
+        "program_guide_enable": false,
+        "mandatory_login": false,
+        "genre_visible": true,
+        "country_visible": false
+    },
+    "ads_config": {
+        "ads_enable": "0",
+        "mobile_ads_network": "admob",
+        "admob_app_id": "ca-app-pub-2223875090558753~4711731351",
+        "admob_banner_ads_id": "ca-app-pub-2223875090558753/4660007883",
+        "admob_interstitial_ads_id": "ca-app-pub-2223875090558753/5641669640",
+        "admob_native_ads_id": "ca-app-pub-2223875090558753/3332013141",
+        "fan_native_ads_placement_id": "218580920103522_218587886769492",
+        "fan_banner_ads_placement_id": "218580920103522_218585723436375",
+        "fan_interstitial_ads_placement_id": "218580920103522_218587373436210",
+        "startapp_app_id": "205905398"
+    },
+       "payment_config": {
+        "currency_symbol": "$",
+        "currency": "USD",
+        "exchnage_rate": "1",
+        "paypal_email": "xxxxxxxxxxxxxx@gmail.com",
+        "paypal_client_id": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "stripe_publishable_key": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "stripe_secret_key": "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "apk_version_info": {
+        "version_code": "1",
+        "version_name": "هذا التحديث مهم جدا",
+        "whats_new": "تم حل جميع المشاكل في هده النسخة",
+        "apk_url": "https://play.google.com/store/apps/details?id=com.mrbihiesq.ashqkaesk",
+        "is_skipable": true
+    }
+}
