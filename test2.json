@@ -1,61 +1,289 @@
 [
-    {
-        "ch_list_id": 3,
-        "ch_name": "ben1",
-        "img_url": "https://egmusic.net/uploads/default_image/genre.png",
-        "ch_active": true,
-        "slug": "sci-fi",
-        "ch_sever":[{
-          "se_id":1,
-          "se_name":"whaches noew",
-          "se_url":"https://www.google.com",
-          "se_tpl":"Url Player",
-          "se_tvd":"embed",
-          "se_v_q":"HD",
-          "ch":3
-        },
-        {
-            "se_id":2,
-            "se_name":"whaches noew",
-            "se_url":"https://www.google.com",
-            "se_tpl":"Url Player",
-            "se_tvd":"embed",
-            "se_v_q":"720HD",
-            "ch":3
-          }
-        
-        ]
-
-      },
-
+  {
+    "id": 1,
+    "name": "bein Sport 1",
+    "img": "https://1.bp.blogspot.com/-DDMxgM9p5wk/YM3sX9RBmtI/AAAAAAAAAQE/Qj8Ik48Ah1gkLI4uSq0NERLZtJlvvOveACLcBGAsYHQ/s0/beIN_SPORTS1_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
       {
-        "ch_list_id": 4,
-        "ch_name": "ben1",
-        "img_url": "https://egmusic.net/uploads/default_image/genre.png",
-        "ch_active": true,
-        "slug": "sci-fi",
-        "ch_sever":[
-        {
-          "se_id":1,
-          "se_name":"whaches new 4",
-          "se_url":"https://www.google.com",
-          "se_tpl":"Url Player",
-          "se_tvd":"embed",
-          "se_v_q":"HD",
-          "ch":3
-        },
-        {
-            "se_id":2,
-            "se_name":"whaches noew",
-            "se_url":"https://www.google.com",
-            "se_tpl":"Url Player",
-            "se_tvd":"embed",
-            "se_v_q":"720HD",
-            "ch":3
-          }
-        
-        ]
-
+        "id": 1,
+        "streamName": "بي ان 1 دقه ضعيفة",
+        "streamImg": "www.google.com",
+        "streamPlayer": "Url Player ",
+        "streamType": "embed",
+        "streamQualty": "hd",
+        "channalsId": 1
       }
-
+    ]
+  },
+  {
+    "id": 2,
+    "name": "bein Sport 2",
+    "img": "https://1.bp.blogspot.com/-ZOfy8VpeMVE/YM0NywkCVeI/AAAAAAAAAOs/h_AJLLvEvx8c7o_9HiI4hP27D2wKCz5PwCLcBGAsYHQ/s0/beIN_SPORTS2_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 3,
+        "streamName": "بي ان 2 دقة ضعيفة ",
+        "streamImg": "www.google.com",
+        "streamPlayer": "Url Player",
+        "streamType": "emed",
+        "streamQualty": "hd",
+        "channalsId": 2
+      },
+      {
+        "id": 4,
+        "streamName": "بي ان 2 دقة متوسطة ",
+        "streamImg": "www.google.com",
+        "streamPlayer": "Url Player",
+        "streamType": "embed",
+        "streamQualty": "hd",
+        "channalsId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "bein Sport 3",
+    "img": "https://1.bp.blogspot.com/-Ydl_g2tOh-g/YM0N02lO4BI/AAAAAAAAAO8/fUtfmp49-rwICg-BT7k4HrSBNj2Eeto1wCLcBGAsYHQ/s0/beIN_SPORTS3_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 4,
+    "name": "bein Sport 4",
+    "img": "https://1.bp.blogspot.com/-aDmPMrvBcRQ/YM0N2gVBSDI/AAAAAAAAAPQ/A6SZzg-dYHoinJCArq1CuRVIDd2sz4pcgCLcBGAsYHQ/s0/beIN_SPORTS4_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 5,
+    "name": "bein Sport 5",
+    "img": "https://1.bp.blogspot.com/-x83h4wIbj4Q/YM0N3uFzsVI/AAAAAAAAAPU/flgJjoVBVeEkIdl29Kggdr0R5x_fbGteQCLcBGAsYHQ/s0/beIN_SPORTS5_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 6,
+    "name": "bein Sport 6",
+    "img": "https://1.bp.blogspot.com/-hSbTeTem5No/YM3uymJmoNI/AAAAAAAAAQM/kGA49c0qHa4_rdg2PlEGcdTRPqahEIlIgCLcBGAsYHQ/s0/beIN_SPORTS6_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 7,
+    "name": "bein Sport 7",
+    "img": "https://1.bp.blogspot.com/-aocLm8RmKfc/YM0N4noYFlI/AAAAAAAAAPc/ner-duOduHoeKAELgaksf_qWpWuY08jtwCLcBGAsYHQ/s0/beIN_SPORTS7_DIGITAL_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 8,
+    "name": "BEIN PREMIUM 1",
+    "img": "https://lh3.googleusercontent.com/-7S4S1wYBtMw/YM3wG49HjZI/AAAAAAAAAQc/rfMZbxGURX0dsng5x4xeper9w9utV_BRgCLcBGAsYHQ/beIN_SPORTS1_PREMIUM_Digital_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 9,
+    "name": "BEIN PREMIUM 2",
+    "img": "https://lh3.googleusercontent.com/-wfQR0NwFPTQ/YM3wGwG7eDI/AAAAAAAAAQY/vkFpS-0Oaxge-7q1yihq0J2DtGZnASvCwCLcBGAsYHQ/beIN_SPORTS2_PREMIUM_Digital_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 10,
+    "name": "BEIN PREMIUM 3",
+    "img": "https://lh3.googleusercontent.com/-q8hS5YWDSf0/YM3wG6L2bqI/AAAAAAAAAQU/ojkzz8-5Yc4eDo6Ak4itv-ST-l5AC1J4gCLcBGAsYHQ/beIN_SPORTS3_PREMIUM_Digital_Mono.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 11,
+    "name": "BEIN MAX 1",
+    "img": "https://lh3.googleusercontent.com/-lmzc1DjAQNk/YM3xEjmeFZI/AAAAAAAAAQo/5Jzb-XQABq0H2xj0eIy6Pw-6iPWD2NnNgCLcBGAsYHQ/NEW_beIN-SPORTS-MAX-01.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 12,
+    "name": "BEIN MAX 2",
+    "img": "https://1.bp.blogspot.com/-uO0TRtDUxEE/YM0NvW3t2CI/AAAAAAAAAOI/XpWmhs3hZR0YCUbhSbq3XXG2WO-DDGcEgCLcBGAsYHQ/s0/NEW_beIN-SPORTS-MAX-02.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 13,
+    "name": "BEIN MAX 3",
+    "img": "https://1.bp.blogspot.com/-n9GQWwUuAc0/YM0NwPQ5VvI/AAAAAAAAAOM/Kk2-YeR_O_of7ZkB15vGLzKlRH-qj4RyQCLcBGAsYHQ/s0/NEW_beIN-SPORTS-MAX-03.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 14,
+    "name": "BEIN MAX 4",
+    "img": "https://1.bp.blogspot.com/-AUok2F5Y56Q/YM0NwUYnSHI/AAAAAAAAAOQ/ZXjLsFuhMCEDaDzqtuYq7ro0fXcMo3_eQCLcBGAsYHQ/s0/NEW_beIN-SPORTS-MAX-04.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 15,
+    "name": "BEIN MAX 5",
+    "img": "https://1.bp.blogspot.com/-vPFABKwnuTE/YM0NwtX2KuI/AAAAAAAAAOU/0u6GifP9RtEmehW5cGgLXifZ1RtCJDzTwCLcBGAsYHQ/s0/NEW_beIN-SPORTS-MAX-05.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 16,
+    "name": "BEIN MAX 6",
+    "img": "https://1.bp.blogspot.com/-ldKyTIbrkco/YM0NxPqsWpI/AAAAAAAAAOY/K81B4moNx6A6Tq_yXF362MhsYcZGSjNxACLcBGAsYHQ/s0/NEW_beIN-SPORTS-MAX-06.png",
+    "groupsServerId": 1,
+    "enable": false,
+    "groupsServer": null,
+    "streems": []
+  },
+  {
+    "id": 17,
+    "name": "ON Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/On_Time_Sports.jpg",
+    "groupsServerId": 2,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 5,
+        "streamName": "ON Sports ",
+        "streamImg": "https://2d03lw.janjua.pw:8088/adfree/aflamons/playlist.m3u8?id=87100&pk=128475b85696b909a85b5df7ec4b8f45181767a3e411ee67008cbc65fd52ecde",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 17
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "قناه الكاس 1",
+    "img": "https://www.iqraa.news/wp-content/uploads/2021/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-2021-1-800x542.jpg",
+    "groupsServerId": 3,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 6,
+        "streamName": "قناة الكاس 1",
+        "streamImg": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkassONErvb/master.m3u8?hdnts=exp=1624463809~acl=/*~hmac=f6eed31d8d5259364da841c178644e6f2c9572c71d7f04d89a6efe5eb1d63739",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 18
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "قناة الكاس 2",
+    "img": "https://www.iqraa.news/wp-content/uploads/2021/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-2021-1-800x542.jpg",
+    "groupsServerId": 3,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 7,
+        "streamName": "قناة الكاس 2",
+        "streamImg": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwvo/master.m3u8?hdnts=exp=1624462811~acl=/*~hmac=63b1f7df6aa0a0f6213219e3eebc3db05857817e3cd24699ce98e9e1ff91f101",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 19
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "قناة الكاس 5",
+    "img": "https://www.iqraa.news/wp-content/uploads/2021/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-2021-1-800x542.jpg",
+    "groupsServerId": 3,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 9,
+        "streamName": "قناة الكاس 5",
+        "streamImg": "https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFivezm1/master.m3u8?hdnts=exp=1624463025~acl=/*~hmac=f09276fb8ea85c1a4f6935dde66c2ae29752f41e53fc0f96d08e2e02893e73d8",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 20
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "قناة الكاس 4",
+    "img": "https://www.iqraa.news/wp-content/uploads/2021/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-2021-1-800x542.jpg",
+    "groupsServerId": 3,
+    "enable": true,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 8,
+        "streamName": "قناة الكاس 4",
+        "streamImg": "https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFourmz1/master.m3u8?hdnts=exp=1624462921~acl=/*~hmac=1d3c13a3a08f656d12d022960bba089f33d88123cfcca80020b6f16e457fc0d8",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 21
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "قناة الكاس اون لاين",
+    "img": "https://www.iqraa.news/wp-content/uploads/2021/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-2021-1-800x542.jpg",
+    "groupsServerId": 3,
+    "enable": false,
+    "groupsServer": null,
+    "streems": [
+      {
+        "id": 10,
+        "streamName": "قناة الكاس اون لاين",
+        "streamImg": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/playlist.m3u8?hdnts=exp=1624463331~acl=/*~hmac=d0d82b10ed4c146104fedc9f3de9cd074113cd979c690226641aeac53aeba6e9",
+        "streamPlayer": "exoplayer",
+        "streamType": "hls",
+        "streamQualty": "hd",
+        "channalsId": 22
+      }
+    ]
+  }
 ]
