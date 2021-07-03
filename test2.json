@@ -42,7 +42,7 @@
           "se_tpl":"Url Player",
           "se_tvd":"embed",
           "se_v_q":"HD",
-          "ch":4
+          "ch":3
         },
         {
             "se_id":2,
@@ -51,7 +51,7 @@
             "se_tpl":"Url Player",
             "se_tvd":"embed",
             "se_v_q":"720HD",
-            "ch":4
+            "ch":3
           }
         
         ]
