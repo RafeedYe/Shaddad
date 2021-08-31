@@ -1,7 +1,7 @@
 {
     "app_config": {
-        "prif": "i}^]79",
-        "player": "rZek\'",
+        "prif": "http://192.168.1.103:45455",
+        "player": "com.url.player",
         "imgbaner": "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/banner-ads-examples-ncino.jpg",
         "imgurl": "http://www.google.com",
         "telgram": "live_koora",
