@@ -1,6 +1,6 @@
 {
     "app_config": {
-        "prif": "http://192.168.1.109:45455",
+        "prif": "http://ramzitv-001-site1.ftempurl.com/",
         "player": "com.url.player",
         "imgbaner": "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/banner-ads-examples-ncino.jpg",
         "imgurl": "http://www.google.com",
