@@ -7,8 +7,8 @@
         "telgram": "live_koora",
         "facebook": "https://www.facebook.com/YemenSall",
         "facebook_id": "YemenSall",
-        "Goal": "com.url.player",
-        "whMod": "com.url.player"
+        "Goal": "com.football.footballsport",
+        "whMod": "com.pic.whatsmods"
     },
     "ads_config": {
         "ads_enable": "0",
