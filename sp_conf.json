@@ -1,7 +1,7 @@
 {
     "app_config": {
-        "prif": "http://ramzitv-001-site1.ftempurl.com",
-        "player": "com.url.player",
+        "prif": "http://sami2022-001-site1.itempurl.com",
+        "player": "com.iptv.player.iptvplayer",
         "imgbaner": "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/banner-ads-examples-ncino.jpg",
         "imgurl": "http://www.google.com",
         "telgram": "YallTV",
