@@ -7,7 +7,7 @@
         "country_visible": false
     },
     "ads_config": {
-        "ads_enable": "1",
+        "ads_enable": "0",
         "mobile_ads_network": "ADMOB",
         "admob_app_id": "ca-app-pub-8465080064439398~6652830533",
         "admob_banner_ads_id": "ca-app-pub-8465080064439398/5448108811",
